@@ -1,8 +1,8 @@
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class MovieTicket {
-    public static void main(String[] args) {
+     public class MOVIE TICKET {
+      public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
 
@@ -28,4 +28,4 @@ public class MovieTicket {
 
         input.close();
     }
-}
+    }
